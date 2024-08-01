@@ -25,7 +25,7 @@ function Contact() {
 
     setFormData({ name: '', email: '', message: '' });
   };
-
+ 
   return (
     <section id="contact" className={styles.container}>
       <h1 className="sectionTitle">Contato</h1>
